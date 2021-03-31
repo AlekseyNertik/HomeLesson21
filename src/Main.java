@@ -31,9 +31,7 @@ class MainClass {
                 e.printStackTrace();
             }
            System.out.println("ВАЖНОЕ ОБЪЯВЛЕНИЕ >>> Гонка закончилась!!!");
-
         }
-
 }
     class Car implements Runnable {
         private static int CARS_COUNT;
